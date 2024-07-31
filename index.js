@@ -5,7 +5,7 @@ tailwind.config={
             colors:{
                 "logo" :  {
                    700 : "#1C59AE",
-                   800 : #114a9a,
+                   800 : "#114a9a",
                 }
             }
         }
